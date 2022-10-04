@@ -12,6 +12,6 @@ public class HelloGreeter {
         for (int i = 1; i <= numGreets; i++)
         {
             System.out.println(greeting);
-        } 
+        }
     }
 }
